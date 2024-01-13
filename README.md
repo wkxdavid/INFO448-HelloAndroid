@@ -1,7 +1,6 @@
-## Extra credit Research
-
-# Additional Developer Option: Force RTL layout direction:
-This forces the UI of everything to be oppisite which is right to left. This leads it to mostly being a visual UI change. This is helpful for debugging in languages or settings where its more common to be right to left than left to right. An example is the Arabic language. This leads to the feature focusing on testing visual UI components.
+# Extra credit Research
+Additional Developer Option: Force RTL layout direction:
+This forces the UI of everything to be oppisite which is right to left. This leads it to mostly being a visual UI chang and foricbily switches everything. This is helpful for debugging in languages or settings where its more common to be right to left than left to right. An example is the Arabic language. This leads to the feature focusing on testing visual UI components.
 
 # UW Homework: Hello Android
 This homework is designed to force you to ensure that the tools are correctly installed on your machine, and that you can:
