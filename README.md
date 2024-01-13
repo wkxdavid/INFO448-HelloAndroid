@@ -1,3 +1,8 @@
+## Extra credit Research
+
+# Additional Developer Option: Force RTL layout direction:
+This forces the UI of everything to be oppisite which is right to left. This leads it to mostly being a visual UI change. This is helpful for debugging in languages or settings where its more common to be right to left than left to right. An example is the Arabic language. This leads to the feature focusing on testing visual UI components.
+
 # UW Homework: Hello Android
 This homework is designed to force you to ensure that the tools are correctly installed on your machine, and that you can:
 
@@ -107,7 +112,7 @@ OK, building the project should be pretty easy at this point--the templates are 
 
 If it doesn't, you'll need to diagnose this before you can complete the homework--and there's not much I can tell you ahead of time to help you diagnose this.
 
-> Sadly, one of the constants in software development is the need to debug and diagnose installation problems on your machine yourself--very rarely can anybody else do it for you. I wish it were otherwise--I hate having to do it myself--but it's a necessary part of 
+> Sadly, one of the constants in software development is the need to debug and diagnose installation problems on your machine yourself--very rarely can anybody else do it for you. I wish it were otherwise--I hate having to do it myself--but it's a necessary part of
 
 If it's running, you can leave it running, or click the big red square "stop" button in the same toolbar area as where you found the green triangle "play" button. Not surprisingly, this will stop your app (but keep the emulator running).
 
